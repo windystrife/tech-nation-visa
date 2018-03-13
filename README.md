@@ -21,7 +21,7 @@ Evidence that I have played an active role in contributing, teaching and organis
 Evidence of experimenting with new technologies, coding libraries, languages and tools.
 
 - ###### VR:
- - [PenHouse Metropolis Real Estate VR](https://github.com/windystrife/PentHouseMetropolisRealEstateVR)
+ - [PentHouse Metropolis Real Estate VR](https://github.com/windystrife/PentHouseMetropolisRealEstateVR)
 
 
 - ###### AR:
